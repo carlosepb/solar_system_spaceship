@@ -1,21 +1,21 @@
-# Solar_system
-Simulación de un sistema solar con figuras 3D y texturas utilizando imágenes.
+# Solar_system_spaceship
+Navegación a traves de un sistema solar con figuras 3D y texturas utilizando imágenes.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Simulación del sistema solar</h3>
+  <h3 align="center">Navegación a travéS del sistema solar</h3>
 
   <p align="center">
-    ¡Sistema solar en 3D!
+    ¡Navega a través del Sistema Solar!
     <br />
-      <a href="https://github.com/carlosepb/Solar_system"><strong>Explorar repositorio»</strong></a>
+      <a href="https://github.com/carlosepb/solar_system_spaceship"><strong>Explorar repositorio»</strong></a>
     <br />
     <br />
       <a href="https://github.com/carlosepb/Solar_system/blob/main/images/animationSol.gif">Ver Demo</a>
       ·
-      <a href="https://github.com/carlosepb/Solar_system/issues">Reportar Error</a>
+      <a href="https://github.com/carlosepb/solar_system_spaceship/issues">Reportar Error</a>
       ·
-      <a href="https://github.com/carlosepb/Solar_system/issues">Solicitar Colaboración</a>
+      <a href="https://github.com/carlosepb/solar_system_spaceship/issues">Solicitar Colaboración</a>
     </p>
   </p>
 
@@ -124,7 +124,7 @@ Autor: Carlos Eduardo Pacichana Bastidas
 
 Email: carlos.eduardo.pacichana@gmail.com  carlos.pacichana101@alu.ulpgc.es
 
-Enlace al proyecto: [https://github.com/carlosepb/Solar_system](https://github.com/carlosepb/Solar_system)
+Enlace al proyecto: [https://github.com/carlosepb/solar_system_spaceship](https://github.com/carlosepb/solar_system_spaceship)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Agradecimientos
