@@ -62,7 +62,7 @@ A modo de preparación para la siguiente practica se a añadido un cubo el cual 
 <p align="justify">
 En el gif inferior podemos ver los planetas orbitando a distintas distancias del sol, además de cada cuerpo con su nombre que no varía en su posición ni en su orientación. También cada cuerpo rotando sobre si mismo.(imagen_3.0).
 </p>
-<p align="center"><img src="images/camara_cerca.gif" alt="rotate" width="600" height="425"></br>imagen_3.0(Orbitando)</p>
+<p align="center"><img src="images/camara_cerca.JPG" alt="rotate" width="600" height="425"></br>imagen_3.0(Orbitando)</p>
 
 ## Trabajo Realizado
 <p align="justify">
