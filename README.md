@@ -8,10 +8,10 @@ Navegación a traves de un sistema solar con figuras 3D y texturas utilizando im
   <p align="center">
     ¡Navega a través del Sistema Solar!
     <br />
-      <a href="https://github.com/carlosepb/solar_system_spaceship/blob/main/images/animation.gif"><strong>Explorar repositorio»</strong></a>
+      <a href="https://github.com/carlosepb/solar_system_spaceship"><strong>Explorar repositorio»</strong></a>
     <br />
     <br />
-      <a href="https://github.com/carlosepb/Solar_system/blob/main/images/animationSol.gif">Ver Demo</a>
+      <a href="https://github.com/carlosepb/solar_system_spaceship/blob/main/images/animation.gif">Ver Demo</a>
       ·
       <a href="https://github.com/carlosepb/solar_system_spaceship/issues">Reportar Error</a>
       ·
