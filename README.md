@@ -54,19 +54,19 @@ Navegación a traves de un sistema solar con figuras 3D y texturas utilizando im
 <p align="justify">
 En la primera pantalla se nos presentarán las instrucciones de como entrar y salir del modo cámara libre, además de los controles de movimiento. también podemos ver los planetas orbitar alrededor del sol con sus respectivos nombres y rotaciones sobre si mismos. Se ha limitado la zona de desplazamiento para evitar alejarnos demasiado del sistema solar o superar la coordenada 0 del eje z.(imagen_1.0)
 </p>
-<p align="center"><img src="images/camara_centrada.JPG" alt="camera center" width="600" height="425"></br>imagen_1.0(Planetas)</p>
+<p align="center"><img src="images/camara_centrada.JPG" alt="camera center" width="600" height="425"></br>imagen_1.0</p>
 <p align="justify">
 Una vez entremos en el modo cámara libre podremos desplazarnos libremente a través del sistema solar utilizando las teclas de flechas para subir, bajar, ir izquierda e ir derecha, además de w y s para avanzar y retroceder. En la imagen inferior podemos ver como podemos alejarnos.(imagen_2.0)
 </p>
-<p align="center"><img src="images/camara_alejada.JPG" alt="long camera" width="600" height="425"></br>imagen_2.0(Cubo)</p>
+<p align="center"><img src="images/camara_alejada.JPG" alt="long camera" width="600" height="425"></br>imagen_2.0</p>
 <p align="justify">
-En la imagen inferior podemos ver como también podemos acercarnos a los distintos planetas además de la estrella. Al desplazarnos la nave no lo hace modificando directamente su posición si no que aumenta gradual mente su velocidad según el tiempo que se tenga una de las teclas de desplazamiento pulsada hasta una velocidad máxima e igualmente ira perdiendo velocidad gradualmente una vez soltemos la tecla.(imagen_3.)
+En la imagen inferior podemos ver como también podemos acercarnos a los distintos planetas además de la estrella. Al desplazarnos la nave no lo hace modificando directamente su posición si no que aumenta gradual mente su velocidad según el tiempo que se tenga una de las teclas de desplazamiento pulsada hasta una velocidad máxima e igualmente ira perdiendo velocidad gradualmente una vez soltemos la tecla.(imagen_3.0)
 </p>
-<p align="center"><img src="images/camara_cerca.JPG" alt="short camera" width="600" height="425"></br>imagen_3.0(Orbitando)</p>
+<p align="center"><img src="images/camara_cerca.JPG" alt="short camera" width="600" height="425"></br>imagen_3.0</p>
 <p align="justify">
-Por último podemos ver como cambiamos del modo vista normal al modo cámara dinámica y desplazarnos por el sistema solar y volver al modo normal que resetea el estado de la cámara.(magen_4.)
+Por último podemos ver como cambiamos del modo vista normal al modo cámara dinámica y desplazarnos por el sistema solar y volver al modo normal que resetea el estado de la cámara.(imagen_4.0)
 </p>
-<p align="center"><img src="images/animation.gif" alt="moving camera" width="600" height="425"></br>imagen_40(Orbitando)</p>
+<p align="center"><img src="images/animation.gif" alt="moving camera" width="600" height="425"></br>imagen_4.0</p>
 
 ## Trabajo Realizado
 <p align="justify">
