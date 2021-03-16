@@ -8,7 +8,7 @@ Navegación a traves de un sistema solar con figuras 3D y texturas utilizando im
   <p align="center">
     ¡Navega a través del Sistema Solar!
     <br />
-      <a href="https://github.com/carlosepb/solar_system_spaceship"><strong>Explorar repositorio»</strong></a>
+      <a href="https://github.com/carlosepb/solar_system_spaceship/blob/main/images/animation.gif"><strong>Explorar repositorio»</strong></a>
     <br />
     <br />
       <a href="https://github.com/carlosepb/Solar_system/blob/main/images/animationSol.gif">Ver Demo</a>
@@ -52,34 +52,31 @@ Navegación a traves de un sistema solar con figuras 3D y texturas utilizando im
 <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
 <p align="justify">
-Aplicación que simula un sistema solar con solo cinco planetas (Mercurio, Venus, La Tierra, Marte y Júpiter) y tres lunas (La Luna, Europa e IO).  Al empezar el programa vemos todos los planetas empezar en la misma posición del eje X pero ya que todos llevan una velocidad de orbita distinta se separarán.
+En la primera pantalla se nos presentarán las instrucciones de como entrar y salir del modo cámara libre, además de los controles de movimiento. también podemos ver los planetas orbitar alrededor del sol con sus respectivos nombres y rotaciones sobre si mismos. Se ha limitado la zona de desplazamiento para evitar alejarnos demasiado del sistema solar o superar la coordenada 0 del eje z.(imagen_1.0)
 </p>
 <p align="center"><img src="images/camara_centrada.JPG" alt="camera center" width="600" height="425"></br>imagen_1.0(Planetas)</p>
 <p align="justify">
-A modo de preparación para la siguiente practica se a añadido un cubo el cual podemos desplazar por la interfaz con las flechas del teclado para moverlo por los ejes X e Y, además de poder desplazarlo por el eje Z usando las teclas W (alejar) y S(acercar).(imagen_2.0).
+Una vez entremos en el modo cámara libre podremos desplazarnos libremente a través del sistema solar utilizando las teclas de flechas para subir, bajar, ir izquierda e ir derecha, además de w y s para avanzar y retroceder. En la imagen inferior podemos ver como podemos alejarnos.(imagen_2.0)
 </p>
 <p align="center"><img src="images/camara_alejada.JPG" alt="long camera" width="600" height="425"></br>imagen_2.0(Cubo)</p>
 <p align="justify">
-En el gif inferior podemos ver los planetas orbitando a distintas distancias del sol, además de cada cuerpo con su nombre que no varía en su posición ni en su orientación. También cada cuerpo rotando sobre si mismo.(imagen_3.0).
+En la imagen inferior podemos ver como también podemos acercarnos a los distintos planetas además de la estrella. Al desplazarnos la nave no lo hace modificando directamente su posición si no que aumenta gradual mente su velocidad según el tiempo que se tenga una de las teclas de desplazamiento pulsada hasta una velocidad máxima e igualmente ira perdiendo velocidad gradualmente una vez soltemos la tecla.(imagen_3.)
 </p>
 <p align="center"><img src="images/camara_cerca.JPG" alt="short camera" width="600" height="425"></br>imagen_3.0(Orbitando)</p>
 <p align="justify">
-En el gif inferior podemos ver los planetas orbitando a distintas distancias del sol, además de cada cuerpo con su nombre que no varía en su posición ni en su orientación. También cada cuerpo rotando sobre si mismo.(imagen_3.0).
+Por último podemos ver como cambiamos del modo vista normal al modo cámara dinámica y desplazarnos por el sistema solar y volver al modo normal que resetea el estado de la cámara.(magen_4.)
 </p>
-<p align="center"><img src="images/animation.gif" alt="moving camera" width="600" height="425"></br>imagen_3.0(Orbitando)</p>
+<p align="center"><img src="images/animation.gif" alt="moving camera" width="600" height="425"></br>imagen_40(Orbitando)</p>
 
 ## Trabajo Realizado
 <p align="justify">
-Para el uso de los cuerpos celestes se crea un objeto PShape para almacenar su tamaño y textura, para cada elemento tendremos un ángulo de rotación distinto que permitirá que los planetas tengan una velocidad de orbita diferente.
+Para el movimiento de la cámara se usa la función camera() la cual varia de estática a móvil dependiendo de una variable booleana que controla en que estado de funcionamiento se encuentra en ese momento, haciendo uso del evento keypressed() y keyreleased() para realizar los cambios de estado.
 </p>
 <p align="justify">
-Para el fondo ser carga una imagen y se posiciona contiguas y se van desplazando a la izquierda para dar la sensación de movimiento.
+Se ha decidido mantener la rotación y orbita de los planetas activa durante el movimiento de la cámara para permitir ver las diferentes partes de los planetas y la estrella ya que de otra manera la parte posterior siempre estaría oculta.
 </p>
 <p align="justify">
-Para posicionar los elementos por la interfaz se usa el método translade(), y para conseguir las orbitas y que los cuerpos giren el método rotate().
-</p>
-<p align="justify">
-Como preparación para la siguiente práctica se ha añadido un cubo el cual podremos desplazar por la interfaz haciendo uso de los eventos de tecla pulsada y liberada. 
+El sistema de aceleración y frenado se a diseñado de manera que al mantener una tecla pulsada una variable de tipo float aumente gradualmente su valor hasta un máximo en cada iteración de la función draw().
 </p>
 
 ## Herramientas de Desarrollo
@@ -105,7 +102,7 @@ Para modificar la aplicación necesitará instalar el entorno de desarrollo Proc
 1. Release.
     * Descomprimir rar.
     * Entrar a la versión correspondiente a nuestro windows.
-    * Lanzar sistema_solar.exe.
+    * Lanzar sistema_solar_spaceship.exe
 2. Proyecto.
     * Descomprimir rar.
     * Ejecutar Processin3.
