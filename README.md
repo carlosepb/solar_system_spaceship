@@ -125,7 +125,7 @@ Autor: Carlos Eduardo Pacichana Bastidas
 
 Email: carlos.eduardo.pacichana@gmail.com  carlos.pacichana101@alu.ulpgc.es
 
-Enlace al proyecto: [https://github.com/carlosepb/solar_system_spaceship](https://github.com/carlosepb/solar_system_spaceship)
+Enlace al proyecto: [https://github.com/carlosepb/PenduleNewton](https://github.com/carlosepb/PenduleNewton)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Agradecimientos
@@ -133,4 +133,4 @@ Enlace al proyecto: [https://github.com/carlosepb/solar_system_spaceship](https:
 * [Gif-animation](https://github.com/extrapixel/gif-animation)
 * [Funprogramming](https://funprogramming.org/)
 * [Text](https://processing.org/reference/text_.html)
-* [Texturas](https://pixabay.com/es/images/search/planeta/)
+* [Texturas](https://www.pexels.com/es-es/)
